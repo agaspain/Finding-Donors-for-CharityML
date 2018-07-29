@@ -23,7 +23,7 @@ This project uses the following software and Python libraries:
 - [pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/0.17/install.html)
 - [Matplotlib](https://matplotlib.org/)
-- [imbalanced-learn] (http://contrib.scikit-learn.org/imbalanced-learn/stable/index.html)
+- [imbalanced-learn](http://contrib.scikit-learn.org/imbalanced-learn/stable/index.html)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
